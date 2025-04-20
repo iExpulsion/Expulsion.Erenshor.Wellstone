@@ -10,7 +10,7 @@ Teleport to your last Wishing Well.
 
 ## Installation
 - Requires [BepInEx](https://github.com/BepInEx/BepInEx)
-- Download `Expulsion.Erenshor.Wellstone.dll` [Latest Release](https://github.com/iExpulsion/Expulsion.Erenshor.VendorInfo/releases/latest)
+- Download `Expulsion.Erenshor.Wellstone.dll` [Latest Release](https://github.com/iExpulsion/Expulsion.Erenshor.Wellstone/releases/latest)
 - Place the DLL inside your `BepInEx/Plugins` Directory
 
 ## Screenshots
