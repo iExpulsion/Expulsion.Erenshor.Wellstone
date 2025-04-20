@@ -6,7 +6,7 @@ Teleport to your last Wishing Well.
 - I recommend adding [SpellSkillCleanupFix](https://github.com/iExpulsion/Expulsion.Erenshor.SpellSkillCleanupFix) to your plugins when using custom spell mods which will handle this for you.
 
 ## Features
-- Teaches characters a new spell that allows your to teleport to your last Wishing Well.
+- Teaches your characters a new spell that allows you to teleport to your last Wishing Well.
 
 ## Installation
 - Requires [BepInEx](https://github.com/BepInEx/BepInEx)
