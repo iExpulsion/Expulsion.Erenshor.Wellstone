@@ -8,7 +8,8 @@ namespace Expulsion.Erenshor.Wellstone.Patches
         public static void Postfix(CharSelectManager __instance)
         {
             var spellWellstone = GameData.SpellDatabase.GetSpellByID("Expulsion.Wellstone");
-            
+            spellWellstone.SpellDesc = $"Binded to {GameData.BindZone}\nTeleports to your last Wishing Well location.";
+
             if (!GameData.CurrentCharacterSlot.CharacterSpells.Contains(spellWellstone.Id))
             {
                 Plugin.Log?.LogInfo("Adding Wellstone to SpellBook");
